@@ -1,5 +1,9 @@
 # BRAWL-STARS-V29
 
+#IT IS Alah Brawl
+
+#language is C#
+
 What work:
 trophy road
 brawl pass
